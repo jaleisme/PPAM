@@ -1,0 +1,4 @@
+#Tue Sep 27 10:54:56 ICT 2022
+base.0=C\:\\Mahasiswa\\1207050034\\Locker\\Tugas\\PPAM\\Pertemuan 4\\SimpleCalc\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
