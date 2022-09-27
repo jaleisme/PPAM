@@ -97,7 +97,7 @@ public class MainActivity extends Activity {
             operandTwo = getOperand(mOperandTwoEditText);
         } catch (NumberFormatException nfe) {
             Log.e(TAG, "NumberFormatException", nfe);
-            mResultTextView.setText(getString(R.string.computationError));
+            mResultTextView.setText("The operand(s) must be filled!\nStatus: "+getString(R.string.computationError));
             return;
         }
 
@@ -120,7 +120,7 @@ public class MainActivity extends Activity {
                         mCalculator.mul(operandOne, operandTwo));
                 break;
             default:
-                result = getString(R.string.computationError);
+                result = "Error!";
                 break;
         }
         mResultTextView.setText(result);
