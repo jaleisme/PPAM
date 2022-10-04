@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BaratieCafe</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="text_intro">Baratie Cafe</string>
+
+    <string name="food1_desc">Luffy\'s Favorite: Grilled Sea King Meat with BBQ Sauce.</string>
+    <string name="food2_desc">Sanji\'s Sea Food Risotto, Baratie Most Memorable Dish.</string>
+    <string name="food3_desc">Frozen Franky\'s Fuel Cola</string>
+
+    <string name="food1_msg">Ordered Sea King\'s Meat</string>
+    <string name="food2_msg">Ordered Sanji\'s Seafood Risotto</string>
+    <string name="food3_msg">Ordered Franky\'s Fuel</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
