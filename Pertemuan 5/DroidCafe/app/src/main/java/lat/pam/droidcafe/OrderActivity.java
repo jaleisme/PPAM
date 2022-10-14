@@ -7,14 +7,15 @@ import android.view.View;
 import android.widget.RadioButton;
 import android.widget.Toast;
 
-
 public class OrderActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_order);
+
     }
+
 
     public void onRadioButtonClicked(View view) {
         // Is the button now checked?
@@ -46,4 +47,5 @@ public class OrderActivity extends AppCompatActivity {
         Toast.makeText(getApplicationContext(), message,
                 Toast.LENGTH_SHORT).show();
     }
+
 }
