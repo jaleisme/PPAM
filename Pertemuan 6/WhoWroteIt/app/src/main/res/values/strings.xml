@@ -1,0 +1,11 @@
+
+<resources>
+    <string name="app_name">Who Wrote It?</string>
+    <string name="instructions">Enter full or partial name of a book. Click Search to find the author of the book. </string>
+    <string name="button_text">Search</string>
+    <string name="input_hint">Moby Dick</string>
+    <string name="no_search_term">Enter a search query</string>
+    <string name="no_network">Check your network connection and try again.</string>
+    <string name="no_results">No Results Found</string>
+    <string name="loading">Loading…</string>
+</resources>
