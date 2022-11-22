@@ -1,0 +1,12 @@
+com.example.android.hellosharedprefs.app-pngs-0 C:\Mahasiswa\1207050034\Tugas\PPAM\HelloSharedPrefs\app\build\generated\res\pngs\debug
+com.example.android.hellosharedprefs.app-resValues-1 C:\Mahasiswa\1207050034\Tugas\PPAM\HelloSharedPrefs\app\build\generated\res\resValues\debug
+com.example.android.hellosharedprefs.app-rs-2 C:\Mahasiswa\1207050034\Tugas\PPAM\HelloSharedPrefs\app\build\generated\res\rs\debug
+com.example.android.hellosharedprefs.app-mergeDebugResources-3 C:\Mahasiswa\1207050034\Tugas\PPAM\HelloSharedPrefs\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.android.hellosharedprefs.app-mergeDebugResources-4 C:\Mahasiswa\1207050034\Tugas\PPAM\HelloSharedPrefs\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.android.hellosharedprefs.app-merged_res-5 C:\Mahasiswa\1207050034\Tugas\PPAM\HelloSharedPrefs\app\build\intermediates\merged_res\debug
+com.example.android.hellosharedprefs.app-debug-6 C:\Mahasiswa\1207050034\Tugas\PPAM\HelloSharedPrefs\app\src\debug\res
+com.example.android.hellosharedprefs.app-main-7 C:\Mahasiswa\1207050034\Tugas\PPAM\HelloSharedPrefs\app\src\main\res
+com.example.android.hellosharedprefs.app-support-compat-27.1.1-8 C:\Users\User\.gradle\caches\transforms-3\12f64a4f120236dfa36186aca145e22b\transformed\support-compat-27.1.1\res
+com.example.android.hellosharedprefs.app-appcompat-v7-27.1.1-9 C:\Users\User\.gradle\caches\transforms-3\5f993f815a4b59c143f209e0cec51d6e\transformed\appcompat-v7-27.1.1\res
+com.example.android.hellosharedprefs.app-constraint-layout-1.1.2-10 C:\Users\User\.gradle\caches\transforms-3\65bd193425a02d9fbb60c537efd87c4b\transformed\constraint-layout-1.1.2\res
+com.example.android.hellosharedprefs.app-support-core-ui-27.1.1-11 C:\Users\User\.gradle\caches\transforms-3\e0448a2568210bdd8cacc7fa6bdeadc6\transformed\support-core-ui-27.1.1\res
